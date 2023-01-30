@@ -1,52 +1,301 @@
 [
-{"1": {"author": "Albert Einstein", "quote": "Imagination is more important than knowledge."}},
-{"2": {"author": "Mark Twain", "quote": "The secret of getting ahead is getting started."}},
-{"3": {"author": "Steve Jobs", "quote": "Design is not just what it looks like and feels like. Design is how it works."}},
-{"4": {"author": "Oscar Wilde", "quote": "Be yourself; everyone else is already taken."}},
-{"5": {"author": "Confucius", "quote": "The man who asks a question is a fool for a minute, the man who does not is a fool for life."}},
-{"6": {"author": "Henry Ford", "quote": "If you think you can do a thing or think you can't do a thing, you're right."}},
-{"7": {"author": "Mahatma Gandhi", "quote": "Strength does not come from physical capacity. It comes from an indomitable will."}},
-{"8": {"author": "Nelson Mandela", "quote": "Education is the most powerful weapon which you can use to change the world."}},
-{"9": {"author": "William Shakespeare", "quote": "To be, or not to be: that is the question."}},
-{"10": {"author": "Ralph Waldo Emerson", "quote": "The only person you are destined to become is the person you decide to be."},
-{"11": {"author": "Dr. Seuss", "quote": "You know you're in love when you can't fall asleep because reality is finally better than your dreams."}},
-{"12": {"author": "Frank Ocean", "quote": "We'll all become somebody's one-day, one-time partner in love."}},
-{"13": {"author": "Winston Churchill", "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts."}},
-{"14": {"author": "Friedrich Nietzsche", "quote": "That which does not kill us makes us stronger."}},
-{"15": {"author": "Buddha", "quote": "The mind is everything; what you think you become."}},
-{"16": {"author": "Eleanor Roosevelt", "quote": "No one can make you feel inferior without your consent."}},
-{"17": {"author": "Oprah Winfrey", "quote": "The more you praise and celebrate your life, the more there is in life to celebrate."}},
-{"18": {"author": "John Lennon", "quote": "Life is what happens when you're busy making other plans."}},
-{"19": {"author": "Aristotle", "quote": "Happiness is a warm puppy."}},
-{"20": {"author": "Margaret Thatcher", "quote": "If you want something said, ask a man; if you want something done, ask a woman."}},
-{"21": {"author": "Harvey Specter", "quote": "Winners don't make excuses."}},
-{"22": {"author": "Ralph Waldo Emerson", "quote": "The only person you are destined to become is the person you decide to be."}},
-{"23": {"author": "Stephen Covey", "quote": "Begin with the end in mind."}},
-{"24": {"author": "Mark Twain", "quote": "Age is an issue of mind over matter. If you don't mind, it doesn't matter."}},
-{"25": {"author": "Marilyn Monroe", "quote": "I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best."}},
-{"26": {"author": "Benjamin Franklin", "quote": "Early to bed and early to rise, makes a man healthy, wealthy, and wise."}},
-{"27": {"author": "Nelson Mandela", "quote": "Education is the most powerful weapon which you can use to change the world."}},
-{"28": {"author": "Walt Disney", "quote": "The way to get started is to quit talking and begin doing."}},
-{"29": {"author": "Mahatma Gandhi", "quote": "The weak can never forgive. Forgiveness is the attribute of the strong."}},
-{"30": {"author": "Martin Luther King Jr.", "quote": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."}},
-{"31": {"author": "Albert Einstein", "quote": "Try not to become a man of success, but rather try to become a man of value."}},
-{"32": {"author": "John Lennon", "quote": "Life is what happens when you're busy making other plans."}},
-{"33": {"author": "Frank Sinatra", "quote": "The best revenge is massive success."}},
-{"34": {"author": "Buddha", "quote": "Happiness will never come to those who fail to appreciate what they already have."}},
-{"35": {"author": "Winston Churchill", "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts."}},
-{"36": {"author": "Elon Musk", "quote": "Don't be afraid to fail. You only have to be right once."}},
-{"37": {"author": "Oprah Winfrey", "quote": "The biggest adventure you can ever take is to live the life of your dreams."}},
-{"38": {"author": "Aristotle", "quote": "Happiness is the meaning and the purpose of life, the whole aim and end of human existence."}},
-{"39": {"author": "Abraham Lincoln", "quote": "The best way to predict your future is to create it."}},
-{"40": {"author": "Steve Jobs", "quote": "Design is not just what it looks like and feels like. Design is how it works."}},
-{"41": {"author": "Eleanor Roosevelt", "quote": "The future belongs to those who believe in the beauty of their dreams."}},
-{"42": {"author": "Mahatma Gandhi", "quote": "Strength does not come from physical capacity. It comes from an indomitable will."}},
-{"43": {"author": "Nelson Mandela", "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall."}},
-{"44": {"author": "Confucius", "quote": "It does not matter how slowly you go as long as you do not stop."}},
-{"45": {"author": "Martin Luther King Jr.", "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends."}},
-{"46": {"author": "Ralph Waldo Emerson", "quote": "The only way to do great work is to love what you do."}},
-{"47": {"author": "Robert Frost", "quote": "The road less traveled is the one more worth taking."}},
-{"48": {"author": "Margaret Thatcher", "quote": "If you want something said, ask a man; if you want something done, ask a woman."}},
-{"49": {"author": "Henry Ford", "quote": "Obstacles are those things you see when you take your eyes off the goal."}},
-{"50": {"author": "Mark Twain", "quote": "The secret of getting ahead is getting started."}}
-]
+   {
+      "1":{
+         "author":"Albert Einstein",
+         "quote":"Imagination is more important than knowledge."
+      }
+   },
+   {
+      "2":{
+         "author":"Mark Twain",
+         "quote":"The secret of getting ahead is getting started."
+      }
+   },
+   {
+      "3":{
+         "author":"Steve Jobs",
+         "quote":"Design is not just what it looks like and feels like. Design is how it works."
+      }
+   },
+   {
+      "4":{
+         "author":"Oscar Wilde",
+         "quote":"Be yourself; everyone else is already taken."
+      }
+   },
+   {
+      "5":{
+         "author":"Confucius",
+         "quote":"The man who asks a question is a fool for a minute, the man who does not is a fool for life."
+      }
+   },
+   {
+      "6":{
+         "author":"Henry Ford",
+         "quote":"If you think you can do a thing or think you can't do a thing, you're right."
+      }
+   },
+   {
+      "7":{
+         "author":"Mahatma Gandhi",
+         "quote":"Strength does not come from physical capacity. It comes from an indomitable will."
+      }
+   },
+   {
+      "8":{
+         "author":"Nelson Mandela",
+         "quote":"Education is the most powerful weapon which you can use to change the world."
+      }
+   },
+   {
+      "9":{
+         "author":"William Shakespeare",
+         "quote":"To be, or not to be: that is the question."
+      }
+   },
+   {
+      "10":{
+         "author":"Ralph Waldo Emerson",
+         "quote":"The only person you are destined to become is the person you decide to be."
+      },
+      {
+         "11":{
+            "author":"Dr. Seuss",
+            "quote":"You know you're in love when you can't fall asleep because reality is finally better than your dreams."
+         }
+      },
+      {
+         "12":{
+            "author":"Frank Ocean",
+            "quote":"We'll all become somebody's one-day, one-time partner in love."
+         }
+      },
+      {
+         "13":{
+            "author":"Winston Churchill",
+            "quote":"Success is not final, failure is not fatal: it is the courage to continue that counts."
+         }
+      },
+      {
+         "14":{
+            "author":"Friedrich Nietzsche",
+            "quote":"That which does not kill us makes us stronger."
+         }
+      },
+      {
+         "15":{
+            "author":"Buddha",
+            "quote":"The mind is everything; what you think you become."
+         }
+      },
+      {
+         "16":{
+            "author":"Eleanor Roosevelt",
+            "quote":"No one can make you feel inferior without your consent."
+         }
+      },
+      {
+         "17":{
+            "author":"Oprah Winfrey",
+            "quote":"The more you praise and celebrate your life, the more there is in life to celebrate."
+         }
+      },
+      {
+         "18":{
+            "author":"John Lennon",
+            "quote":"Life is what happens when you're busy making other plans."
+         }
+      },
+      {
+         "19":{
+            "author":"Aristotle",
+            "quote":"Happiness is a warm puppy."
+         }
+      },
+      {
+         "20":{
+            "author":"Margaret Thatcher",
+            "quote":"If you want something said, ask a man; if you want something done, ask a woman."
+         }
+      },
+      {
+         "21":{
+            "author":"Harvey Specter",
+            "quote":"Winners don't make excuses."
+         }
+      },
+      {
+         "22":{
+            "author":"Ralph Waldo Emerson",
+            "quote":"The only person you are destined to become is the person you decide to be."
+         }
+      },
+      {
+         "23":{
+            "author":"Stephen Covey",
+            "quote":"Begin with the end in mind."
+         }
+      },
+      {
+         "24":{
+            "author":"Mark Twain",
+            "quote":"Age is an issue of mind over matter. If you don't mind, it doesn't matter."
+         }
+      },
+      {
+         "25":{
+            "author":"Marilyn Monroe",
+            "quote":"I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best."
+         }
+      },
+      {
+         "26":{
+            "author":"Benjamin Franklin",
+            "quote":"Early to bed and early to rise, makes a man healthy, wealthy, and wise."
+         }
+      },
+      {
+         "27":{
+            "author":"Nelson Mandela",
+            "quote":"Education is the most powerful weapon which you can use to change the world."
+         }
+      },
+      {
+         "28":{
+            "author":"Walt Disney",
+            "quote":"The way to get started is to quit talking and begin doing."
+         }
+      },
+      {
+         "29":{
+            "author":"Mahatma Gandhi",
+            "quote":"The weak can never forgive. Forgiveness is the attribute of the strong."
+         }
+      },
+      {
+         "30":{
+            "author":"Martin Luther King Jr.",
+            "quote":"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
+         }
+      },
+      {
+         "31":{
+            "author":"Albert Einstein",
+            "quote":"Try not to become a man of success, but rather try to become a man of value."
+         }
+      },
+      {
+         "32":{
+            "author":"John Lennon",
+            "quote":"Life is what happens when you're busy making other plans."
+         }
+      },
+      {
+         "33":{
+            "author":"Frank Sinatra",
+            "quote":"The best revenge is massive success."
+         }
+      },
+      {
+         "34":{
+            "author":"Buddha",
+            "quote":"Happiness will never come to those who fail to appreciate what they already have."
+         }
+      },
+      {
+         "35":{
+            "author":"Winston Churchill",
+            "quote":"Success is not final, failure is not fatal: it is the courage to continue that counts."
+         }
+      },
+      {
+         "36":{
+            "author":"Elon Musk",
+            "quote":"Don't be afraid to fail. You only have to be right once."
+         }
+      },
+      {
+         "37":{
+            "author":"Oprah Winfrey",
+            "quote":"The biggest adventure you can ever take is to live the life of your dreams."
+         }
+      },
+      {
+         "38":{
+            "author":"Aristotle",
+            "quote":"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."
+         }
+      },
+      {
+         "39":{
+            "author":"Abraham Lincoln",
+            "quote":"The best way to predict your future is to create it."
+         }
+      },
+      {
+         "40":{
+            "author":"Steve Jobs",
+            "quote":"Design is not just what it looks like and feels like. Design is how it works."
+         }
+      },
+      {
+         "41":{
+            "author":"Eleanor Roosevelt",
+            "quote":"The future belongs to those who believe in the beauty of their dreams."
+         }
+      },
+      {
+         "42":{
+            "author":"Mahatma Gandhi",
+            "quote":"Strength does not come from physical capacity. It comes from an indomitable will."
+         }
+      },
+      {
+         "43":{
+            "author":"Nelson Mandela",
+            "quote":"The greatest glory in living lies not in never falling, but in rising every time we fall."
+         }
+      },
+      {
+         "44":{
+            "author":"Confucius",
+            "quote":"It does not matter how slowly you go as long as you do not stop."
+         }
+      },
+      {
+         "45":{
+            "author":"Martin Luther King Jr.",
+            "quote":"In the end, we will remember not the words of our enemies, but the silence of our friends."
+         }
+      },
+      {
+         "46":{
+            "author":"Ralph Waldo Emerson",
+            "quote":"The only way to do great work is to love what you do."
+         }
+      },
+      {
+         "47":{
+            "author":"Robert Frost",
+            "quote":"The road less traveled is the one more worth taking."
+         }
+      },
+      {
+         "48":{
+            "author":"Margaret Thatcher",
+            "quote":"If you want something said, ask a man; if you want something done, ask a woman."
+         }
+      },
+      {
+         "49":{
+            "author":"Henry Ford",
+            "quote":"Obstacles are those things you see when you take your eyes off the goal."
+         }
+      },
+      {
+         "50":{
+            "author":"Mark Twain",
+            "quote":"The secret of getting ahead is getting started."
+         }
+      }
+   ]
