@@ -1,0 +1,3 @@
+【varsion】1.0.0【varsion】
+【maintain】false【maintain】
+【dialoge】true【dialoge】
